@@ -2,12 +2,14 @@
 
 ## DONE
  
-## Doing
 - 目录分析
+ 
+## Doing
+ 
+- 组件的实现与挂载
  
 ## TO DO
  
-- 组件的实现与挂载
 - 组件生命周期
 - fibar
 - this.setState
